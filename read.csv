@@ -1,0 +1,49 @@
+Cntry,Time,Year,READmean,Region,Population
+Australia,2000,2000,528,Oceania,19107251
+Australia,2003,2003,525,Oceania,20079595
+Australia,2006,2006,513,Oceania,21051940
+Australia,2009,2009,515,Oceania,22024284
+Australia,2012,2012,512,Oceania,22996629
+Australia,2015,2015,503,Oceania,23968973
+Canada,2000,2000,534,N America,30701903
+Canada,2003,2003,528,N America,31749508
+Canada,2006,2006,527,N America,32797113
+Canada,2009,2009,524,N America,33844717
+Canada,2012,2012,523,N America,34892322
+Canada,2015,2015,527,N America,35939927
+Finland,2000,2000,546,Europe,5176482
+Finland,2003,2003,543,Europe,5241877
+Finland,2006,2006,547,Europe,5307272
+Finland,2009,2009,536,Europe,5372667
+Finland,2012,2012,524,Europe,5438062
+Finland,2015,2015,526,Europe,5503457
+Hong Kong (China),2000,2000,525,E Asia,6783502
+Hong Kong (China),2003,2003,510,E Asia,6884398
+Hong Kong (China),2006,2006,536,E Asia,6985294
+Hong Kong (China),2009,2009,533,E Asia,7086191
+Hong Kong (China),2012,2012,545,E Asia,7187087
+Hong Kong (China),2015,2015,527,E Asia,7287983
+New Zealand,2000,2000,529,Oceania,3858234
+New Zealand,2003,2003,522,Oceania,3992292
+New Zealand,2006,2006,521,Oceania,4126351
+New Zealand,2009,2009,521,Oceania,4260409
+New Zealand,2012,2012,512,Oceania,4394468
+New Zealand,2015,2015,509,Oceania,4528526
+Singapore,2000,2000,526,E Asia,3918183
+Singapore,2003,2003,526,E Asia,4255294
+Singapore,2006,2006,526,E Asia,4592406
+Singapore,2009,2009,526,E Asia,4929517
+Singapore,2012,2012,542,E Asia,5266629
+Singapore,2015,2015,535,E Asia,5603740
+United Kingdom,2000,2000,495,Europe,58867004
+United Kingdom,2003,2003,495,Europe,60036765
+United Kingdom,2006,2006,495,Europe,61206526
+United Kingdom,2009,2009,494,Europe,62376288
+United Kingdom,2012,2012,499,Europe,63546049
+United Kingdom,2015,2015,498,Europe,64715810
+United States,2000,2000,504,N America,282895741
+United States,2003,2003,495,N America,290671319
+United States,2006,2006,498,N America,298446897
+United States,2009,2009,500,N America,306222475
+United States,2012,2012,498,N America,313998053
+United States,2015,2015,497,N America,321773631
